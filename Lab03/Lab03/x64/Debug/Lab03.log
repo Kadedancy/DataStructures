@@ -1,0 +1,24 @@
+﻿  array_list_tests.cpp
+  foo.cpp
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(22,7): error C2555: 'ArrayListFixture::Setup': overriding virtual function return type differs and is not covariant from 'testing::Test::Setup'
+  C:\DataStructures\Lab03\Lab03\googletest_sdk\include\gtest\gtest.h(356,42):
+  see declaration of 'testing::Test::Setup'
+  
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(41,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(41,13): error C2065: 'ArrayListTests': undeclared identifier
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(41,29): error C2065: 'ErrorCases': undeclared identifier
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(41,12): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(41,12):
+  The initializer contains too many elements
+  
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(42,1): error C2059: syntax error: '{'
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(42,1): error C2143: syntax error: missing ';' before '{'
+C:\DataStructures\Lab03\Lab03\array_list_tests.cpp(42,1): error C2447: '{': missing function header (old-style formal list?)
+  Lab03.cpp
+C:\DataStructures\Lab03\Lab03\src\Lab03.cpp(57,14): error C2039: 'InitGoogleTest': is not a member of 'testing'
+  C:\DataStructures\Lab03\Lab03\include\array_list.h(351,11):
+  see declaration of 'testing'
+  
+C:\DataStructures\Lab03\Lab03\src\Lab03.cpp(57,14): error C3861: 'InitGoogleTest': identifier not found
+C:\DataStructures\Lab03\Lab03\src\Lab03.cpp(58,12): error C3861: 'RUN_ALL_TESTS': identifier not found
+  Generating Code...

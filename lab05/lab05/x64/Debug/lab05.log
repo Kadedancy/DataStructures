@@ -1,0 +1,6 @@
+﻿  array_list_tests.cpp
+  array_list_utility_tests.cpp
+  foo.cpp
+  ssuds.cpp
+  Generating Code...
+  lab05.vcxproj -> C:\DataStructures\lab05\x64\Debug\lab05.exe

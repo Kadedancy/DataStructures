@@ -1,0 +1,10 @@
+^C:\DATASTRUCTURES\GOOGLETEST_BUILD\CMAKEFILES\3B3BF986A87900F579AB434E17382525\GENERATE.STAMP.RULE
+setlocal
+C:\bin\cmake.exe -SC:/DataStructures/googletest_source/googletest-main -BC:/DataStructures/googletest_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/DataStructures/googletest_build/googletest-distribution.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

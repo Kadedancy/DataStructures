@@ -1,0 +1,10 @@
+^C:\DATASTRUCTURES\GOOGLETEST_BUILD\CMAKEFILES\3B3BF986A87900F579AB434E17382525\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

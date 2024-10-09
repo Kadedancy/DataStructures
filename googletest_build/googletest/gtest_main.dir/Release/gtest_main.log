@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/DataStructures/googletest_source/googletest-main/googletest/CMakeLists.txt
+  gtest_main.cc
+     Creating library C:/DataStructures/googletest_build/lib/Release/gtest_main.lib and object C:/DataStructures/googletest_build/lib/Release/gtest_main.exp
+  gtest_main.vcxproj -> C:\DataStructures\googletest_build\bin\Release\gtest_main.dll

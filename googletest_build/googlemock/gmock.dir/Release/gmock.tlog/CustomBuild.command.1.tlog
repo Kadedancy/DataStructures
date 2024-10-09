@@ -1,0 +1,10 @@
+^C:\DATASTRUCTURES\GOOGLETEST_SOURCE\GOOGLETEST-MAIN\GOOGLEMOCK\CMAKELISTS.TXT
+setlocal
+C:\bin\cmake.exe -SC:/DataStructures/googletest_source/googletest-main -BC:/DataStructures/googletest_build --check-stamp-file C:/DataStructures/googletest_build/googlemock/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

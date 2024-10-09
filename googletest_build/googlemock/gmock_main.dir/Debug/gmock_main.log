@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/DataStructures/googletest_source/googletest-main/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  gmock_main.cc
+  Generating Code...
+     Creating library C:/DataStructures/googletest_build/lib/Debug/gmock_main_d.lib and object C:/DataStructures/googletest_build/lib/Debug/gmock_main_d.exp
+  gmock_main.vcxproj -> C:\DataStructures\googletest_build\bin\Debug\gmock_main_d.dll

@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/DataStructures/googletest_source/googletest-main/googletest/CMakeLists.txt
+C:/DataStructures/googletest_source/googletest-main/googletest/cmake/Config.cmake.in
+C:/DataStructures/googletest_source/googletest-main/googletest/cmake/gtest.pc.in
+C:/DataStructures/googletest_source/googletest-main/googletest/cmake/gtest_main.pc.in
+C:/DataStructures/googletest_source/googletest-main/googletest/cmake/internal_utils.cmake
+C:/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+C:/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/share/cmake-3.28/Modules/FindThreads.cmake
+C:/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake

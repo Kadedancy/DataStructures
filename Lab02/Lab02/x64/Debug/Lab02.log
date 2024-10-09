@@ -1,0 +1,33 @@
+﻿  Lab02.cpp
+C:\DataStructures\Lab02\Lab02\arraylist.h(186,35): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Lab02.cpp')
+  C:\DataStructures\Lab02\Lab02\arraylist.h(186,35):
+  the template instantiation context (the oldest one first) is
+  	C:\DataStructures\Lab02\Lab02\Lab02.cpp(18,27):
+  	see reference to class template instantiation 'ssuds::ArrayList<int>' being compiled
+  	C:\DataStructures\Lab02\Lab02\arraylist.h(173,20):
+  	while compiling class template member function 'ssuds::ArrayList<int> &ssuds::ArrayList<int>::operator =(const ssuds::ArrayList<int> &)'
+  		C:\DataStructures\Lab02\Lab02\Lab02.cpp(35,18):
+  		see the first reference to 'ssuds::ArrayList<int>::operator =' in 'main'
+  
+C:\DataStructures\Lab02\Lab02\arraylist.h(166,31): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Lab02.cpp')
+  C:\DataStructures\Lab02\Lab02\arraylist.h(166,31):
+  the template instantiation context (the oldest one first) is
+  	C:\DataStructures\Lab02\Lab02\arraylist.h(160,9):
+  	while compiling class template member function 'ssuds::ArrayList<int>::ArrayList(const ssuds::ArrayList<int> &)'
+  		C:\DataStructures\Lab02\Lab02\Lab02.cpp(25,37):
+  		see the first reference to 'ssuds::ArrayList<int>::ArrayList' in 'main'
+  
+C:\DataStructures\Lab02\Lab02\arraylist.h(19,35): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Lab02.cpp')
+  C:\DataStructures\Lab02\Lab02\arraylist.h(19,35):
+  the template instantiation context (the oldest one first) is
+  	C:\DataStructures\Lab02\Lab02\arraylist.h(13,14):
+  	while compiling class template member function 'void ssuds::ArrayList<int>::resize(void)'
+  		C:\DataStructures\Lab02\Lab02\arraylist.h(49,19):
+  		see the first reference to 'ssuds::ArrayList<int>::resize' in 'ssuds::ArrayList<int>::append'
+  		C:\DataStructures\Lab02\Lab02\Lab02.cpp(19,24):
+  		see the first reference to 'ssuds::ArrayList<int>::append' in 'main'
+  
+  Lab02.vcxproj -> C:\DataStructures\Lab02\x64\Debug\Lab02.exe

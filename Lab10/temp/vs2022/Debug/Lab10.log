@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\DataStructures\Lab10\src\main.cpp(44,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\DataStructures\Lab10\src\main.cpp(44,82): warning C4244:         with
+C:\DataStructures\Lab10\src\main.cpp(44,82): warning C4244:         [
+C:\DataStructures\Lab10\src\main.cpp(44,82): warning C4244:             T=float
+C:\DataStructures\Lab10\src\main.cpp(44,82): warning C4244:         ]
+C:\DataStructures\Lab10\src\main.cpp(44,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\DataStructures\Lab10\src\main.cpp(44,61): warning C4244:         with
+C:\DataStructures\Lab10\src\main.cpp(44,61): warning C4244:         [
+C:\DataStructures\Lab10\src\main.cpp(44,61): warning C4244:             T=float
+C:\DataStructures\Lab10\src\main.cpp(44,61): warning C4244:         ]
+  Lab10.vcxproj -> C:\DataStructures\Lab10\bin\vs2022\Debug\Lab10_d.exe
